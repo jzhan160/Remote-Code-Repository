@@ -1,0 +1,41 @@
+﻿  Checkin.cpp
+e:\687\project2\repository\checkincomponent\checkin.cpp(11): error C2065: “DbCore”: 未声明的标识符
+e:\687\project2\repository\checkincomponent\checkin.cpp(11): error C2065: “PayLoad”: 未声明的标识符
+e:\687\project2\repository\checkincomponent\checkin.cpp(11): error C2065: “db”: 未声明的标识符
+e:\687\project2\repository\checkincomponent\checkin.cpp(12): error C2065: “PayLoad”: 未声明的标识符
+e:\687\project2\repository\checkincomponent\checkin.cpp(12): error C2923: “MetaData”: 对于参数“T”，“PayLoad”不是有效的 模板 类型变量
+e:\687\project2\repository\checkincomponent\checkin.cpp(12): error C2133: “md1”: 未知的大小
+e:\687\project2\repository\checkincomponent\checkin.cpp(12): error C2512: “MetaData”: 没有合适的默认构造函数可用
+  e:\687\project2\repository\metadata\metadata.h(47): note: 参见“MetaData”的声明
+e:\687\project2\repository\checkincomponent\checkin.cpp(13): error C2663: “MetaData<T>::name”: 3 个重载没有“this”指针的合法转换
+e:\687\project2\repository\checkincomponent\checkin.cpp(14): error C2663: “MetaData<T>::author”: 3 个重载没有“this”指针的合法转换
+e:\687\project2\repository\checkincomponent\checkin.cpp(15): error C2663: “MetaData<T>::path”: 3 个重载没有“this”指针的合法转换
+e:\687\project2\repository\checkincomponent\checkin.cpp(16): error C2663: “MetaData<T>::head”: 3 个重载没有“this”指针的合法转换
+e:\687\project2\repository\checkincomponent\checkin.cpp(17): error C2663: “MetaData<T>::description”: 3 个重载没有“this”指针的合法转换
+e:\687\project2\repository\checkincomponent\checkin.cpp(19): error C2663: “MetaData<T>::dateTime”: 3 个重载没有“this”指针的合法转换
+e:\687\project2\repository\checkincomponent\checkin.cpp(20): error C2663: “MetaData<T>::dependencies”: 3 个重载没有“this”指针的合法转换
+e:\687\project2\repository\checkincomponent\checkin.cpp(20): error C2228: “.push_back”的左边必须有类/结构/联合
+e:\687\project2\repository\checkincomponent\checkin.cpp(21): error C2065: “PayLoad”: 未声明的标识符
+e:\687\project2\repository\checkincomponent\checkin.cpp(21): error C2146: 语法错误: 缺少“;”(在标识符“pl”的前面)
+e:\687\project2\repository\checkincomponent\checkin.cpp(21): error C2065: “pl”: 未声明的标识符
+e:\687\project2\repository\checkincomponent\checkin.cpp(24): error C2065: “pl”: 未声明的标识符
+e:\687\project2\repository\checkincomponent\checkin.cpp(24): error C2228: “.value”的左边必须有类/结构/联合
+  e:\687\project2\repository\checkincomponent\checkin.cpp(24): note: 类型是“unknown-type”
+e:\687\project2\repository\checkincomponent\checkin.cpp(25): error C2065: “pl”: 未声明的标识符
+e:\687\project2\repository\checkincomponent\checkin.cpp(25): error C2228: “.categories”的左边必须有类/结构/联合
+  e:\687\project2\repository\checkincomponent\checkin.cpp(25): note: 类型是“unknown-type”
+e:\687\project2\repository\checkincomponent\checkin.cpp(26): error C2663: “MetaData<T>::payLoad”: 3 个重载没有“this”指针的合法转换
+e:\687\project2\repository\checkincomponent\checkin.cpp(26): error C2065: “pl”: 未声明的标识符
+e:\687\project2\repository\checkincomponent\checkin.cpp(27): error C2065: “PayLoad”: 未声明的标识符
+e:\687\project2\repository\checkincomponent\checkin.cpp(27): error C2923: “Checkin”: 对于参数“T”，“PayLoad”不是有效的 模板 类型变量
+e:\687\project2\repository\checkincomponent\checkin.cpp(27): error C2133: “checkin”: 未知的大小
+e:\687\project2\repository\checkincomponent\checkin.cpp(27): error C2512: “Checkin”: 没有合适的默认构造函数可用
+  e:\687\project2\repository\checkincomponent\checkin.h(17): note: 参见“Checkin”的声明
+e:\687\project2\repository\checkincomponent\checkin.cpp(28): error C2065: “db”: 未声明的标识符
+e:\687\project2\repository\checkincomponent\checkin.cpp(29): error C2065: “db”: 未声明的标识符
+e:\687\project2\repository\checkincomponent\checkin.cpp(29): error C3861: “showDb”: 找不到标识符
+e:\687\project2\repository\checkincomponent\checkin.cpp(31): error C2065: “db”: 未声明的标识符
+e:\687\project2\repository\checkincomponent\checkin.cpp(31): error C3861: “showDb”: 找不到标识符
+  DateTime.cpp
+c1xx : fatal error C1083: 无法打开源文件: “..\NoSqlDb\DateTime.cpp”: No such file or directory
+  正在生成代码...

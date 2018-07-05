@@ -1,0 +1,50 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Fri Mar  2 22:57:53 2018
+     Path: "E:\687\Project2\Repository\TestExecutive"
+     Args: TestExecutive.cpp, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      37
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         TestExecutive.cpp    function                                  ]      62       2       1
+         TestExecutive.cpp       class                       RepoProvider      73       7       2
+         TestExecutive.cpp    function                               repo      74       2       1
+         TestExecutive.cpp       class                   MetaDataProvider      86       9       7
+         TestExecutive.cpp    function                          metadata1      97      18       1
+         TestExecutive.cpp    function                          metadata2     117      19       1
+         TestExecutive.cpp    function                          metadata3     138      20       1
+         TestExecutive.cpp    function                          metadata4     160      21       1
+         TestExecutive.cpp    function                          metadata5     183      21       1
+         TestExecutive.cpp    function                          metadata6     206      19       1
+         TestExecutive.cpp    function                             testR1     232       8       1
+         TestExecutive.cpp    function                             testR2     243       7       1
+         TestExecutive.cpp    function                             testR3     253      15       2
+         TestExecutive.cpp    function                             testR4     270      15       1
+         TestExecutive.cpp    function                       testCheckin1     287      16       1
+         TestExecutive.cpp    function                       testCheckin2     305      13       1
+         TestExecutive.cpp    function                       testCheckin3     320      15       1
+         TestExecutive.cpp    function                       testCheckin4     337      18       1
+         TestExecutive.cpp    function                       testCheckin5     357      12       1
+         TestExecutive.cpp    function                       testCheckout     372      10       1
+         TestExecutive.cpp    function                             testR5     385       9       1
+         TestExecutive.cpp    function                      ExecuteTests1     396      17       6
+         TestExecutive.cpp    function                      ExecuteTests2     415      19       7
+         TestExecutive.cpp    function                               main     436      11       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     6 dirs
+   processed     1 files

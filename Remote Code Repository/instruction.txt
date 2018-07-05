@@ -1,0 +1,7 @@
+GUI Operation Instruction:
+If you want to test GUI manually, please follow these steps:
+1.Click the connect button in the menu tab to connect to the server.
+2.In the checkin tab, you can click dirs to browse files and right click the file you want to check in and select as parent (must have a parent). You can also add children for the parent file. Then click the chekckin button on the botttom. You will send checkin message and file to the repository. Then you can receive an echo message showed in the status bar.
+3.In the checkout tab, as similar as the checkin tab, you can select files to check out. If you go back to the checkin tab and click the refresh button, you will see the new file from checkout.
+4.Double click the file in the checkout tab, you will trigger a popup window to show the file content and metadata. You can also go to the ViewFile tab to see contents and ViewMetadata tab to see metadata.  
+5.To browse files, you can enter the description in the textbox under the Browse tab, and click the Browse button. Then files whose descriptions match will appear in the listbox.  

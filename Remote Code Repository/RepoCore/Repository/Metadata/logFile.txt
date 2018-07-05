@@ -1,0 +1,27 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Fri Mar  2 22:57:10 2018
+     Path: "E:\687\Project2\Repository\Metadata"
+     Args: MetaData.cpp, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+              MetaData.cpp    function                               main      43      30       2
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     6 dirs
+   processed     1 files

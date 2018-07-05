@@ -1,0 +1,33 @@
+﻿<Window x:Class="GUI.Instruction"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Instruction" Height="500" Width="400">
+ 
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="79*"/>
+            <ColumnDefinition Width="45*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBox Grid.Row="0" Name="codeLabel" TextAlignment="Center" Padding="3" BorderThickness="0" Grid.ColumnSpan="2">Code View</TextBox>
+        <FlowDocumentScrollViewer Grid.Row="1" BorderThickness="1" BorderBrush="Black" IsToolBarVisible="False" VerticalScrollBarVisibility="Auto" Grid.ColumnSpan="2">
+            <FlowDocument Name="instructionView" FontFamily="Consolas" FontSize="20">
+                <Paragraph Name="main">
+                    <LineBreak/>
+                </Paragraph>
+            </FlowDocument>
+        </FlowDocumentScrollViewer>
+         
+        <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="156,10,21,10" HorizontalAlignment="Center">
+            <Button Name="exitButton" Width="60" Click="exitButton_Click">Exit</Button>
+        </StackPanel>
+    </Grid>
+</Window>

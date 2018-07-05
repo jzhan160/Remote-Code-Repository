@@ -1,0 +1,98 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Tue Apr 24 16:56:18 2018
+     Path: "E:\687\Project4\Project3_JiachengZhang\Project3\Project3\Project3_JiachengZhang\GUI"
+     Args: MainWindow.xaml.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1     162
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+        MainWindow.xaml.cs   namespace                                GUI      83    1021     161
+        MainWindow.xaml.cs       class                         MainWindow      85    1019     160
+        MainWindow.xaml.cs    function                         MainWindow     103       4       1
+        MainWindow.xaml.cs    function                      Window_Loaded     109      14       1
+        MainWindow.xaml.cs    function                              Test1     126      13       3
+        MainWindow.xaml.cs    function                              Test2     142      14       3
+        MainWindow.xaml.cs    function                              Test3     159      14       3
+        MainWindow.xaml.cs    function                              Test4     176      17       4
+        MainWindow.xaml.cs    function               MouseButtonEventArgs     181       1       1
+        MainWindow.xaml.cs    function                              Test5     196      15       3
+        MainWindow.xaml.cs    function                             Invoke     208       1       1
+        MainWindow.xaml.cs    function                              Test6     214      29       5
+        MainWindow.xaml.cs    function                              Test7     245      10       1
+        MainWindow.xaml.cs    function                  PrepareForCheckin     258      17       1
+        MainWindow.xaml.cs    function                 PrepareForCheckout     278       8       2
+        MainWindow.xaml.cs    function               MouseButtonEventArgs     279       1       1
+        MainWindow.xaml.cs    function                      Window_Closed     289       3       1
+        MainWindow.xaml.cs    function                    processMessages     295      34       8
+        MainWindow.xaml.cs    function                       insertParent     332       3       1
+        MainWindow.xaml.cs    function                      addClientProc     338       3       1
+        MainWindow.xaml.cs    function           DispatcherLoadConnection     344       8       2
+        MainWindow.xaml.cs    function              DispatcherLoadGetDirs     355      24      10
+        MainWindow.xaml.cs    function                             Invoke     358       1       1
+        MainWindow.xaml.cs    function                             Invoke     370       1       1
+        MainWindow.xaml.cs    function                             Invoke     374       1       1
+        MainWindow.xaml.cs    function             DispatcherLoadGetFiles     382      21       8
+        MainWindow.xaml.cs    function                             Invoke     385       1       1
+        MainWindow.xaml.cs    function                             Invoke     396       1       1
+        MainWindow.xaml.cs    function             DispatcherLoadCheckout     406      21       8
+        MainWindow.xaml.cs    function                             Invoke     409       1       1
+        MainWindow.xaml.cs    function                             Invoke     420       1       1
+        MainWindow.xaml.cs    function             DispatcherLoadViewFile     430      14       5
+        MainWindow.xaml.cs    function                             Invoke     438       1       1
+        MainWindow.xaml.cs    function             DispatcherLoadMetadata     445      14       4
+        MainWindow.xaml.cs    function                             Invoke     454       1       1
+        MainWindow.xaml.cs    function            DispatcherLoadStatusBar     461       9       4
+        MainWindow.xaml.cs    function                             Invoke     465       1       1
+        MainWindow.xaml.cs    function        DispatcherLoadBrowsingFiles     473      31       7
+        MainWindow.xaml.cs    function                             Invoke     493       1       1
+        MainWindow.xaml.cs    function             DispatcherLoadShowKeys     506      17       4
+        MainWindow.xaml.cs    function                             Invoke     518       1       1
+        MainWindow.xaml.cs    function                DispatcherLoadRoots     525      21       5
+        MainWindow.xaml.cs    function                             Invoke     540       1       1
+        MainWindow.xaml.cs    function               InitLocalStorageView     549      15       3
+        MainWindow.xaml.cs    function                           ShowRepo     567      12       1
+        MainWindow.xaml.cs    function                       GetLocalDirs     582       9       2
+        MainWindow.xaml.cs    function                      GetLocalFiles     594       9       2
+        MainWindow.xaml.cs    function                     loadDispatcher     606      11       1
+        MainWindow.xaml.cs    function                        DeleteFiles     620      19       5
+        MainWindow.xaml.cs    function                     removeFirstDir     642       6       1
+        MainWindow.xaml.cs    function           DirList_MouseDoubleClick     651      35       6
+        MainWindow.xaml.cs    function       RepoDirList_MouseDoubleClick     689      29       4
+        MainWindow.xaml.cs    function                       Parent_Click     721      15       2
+        MainWindow.xaml.cs    function                      GetKeysInRepo     737       8       1
+        MainWindow.xaml.cs    function                        Reset_Click     749       9       2
+        MainWindow.xaml.cs    function              Checkout_Select_Click     761       5       1
+        MainWindow.xaml.cs    function               FileMouseDoubleClick     769      26       3
+        MainWindow.xaml.cs    function                    ShowFileContent     798      20       1
+        MainWindow.xaml.cs    function                       ShowMetadata     821      23       1
+        MainWindow.xaml.cs    function                         GetMembers     847      13       3
+        MainWindow.xaml.cs    function                      Checkin_Click     863      37       4
+        MainWindow.xaml.cs    function                      CatchMetadata     901      20       2
+        MainWindow.xaml.cs    function                     Checkout_Click     923      27       3
+        MainWindow.xaml.cs    function          Repo_Refresh_Button_Click     953       5       1
+        MainWindow.xaml.cs    function         Local_Refresh_Button_Click     961       5       1
+        MainWindow.xaml.cs    function                      Connect_Click     969      27       1
+        MainWindow.xaml.cs    function                       Button_Click     999      29       4
+        MainWindow.xaml.cs    function               Add_Dependency_Click    1030       9       2
+        MainWindow.xaml.cs    function                      ReceiveValues    1040       6       2
+        MainWindow.xaml.cs    function                              Check    1047      19       2
+        MainWindow.xaml.cs    function         ShowFiles_SelectionChanged    1068      17       2
+        MainWindow.xaml.cs    function    CategoriesList_SelectionChanged    1087      13       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched    25 dirs
+   processed     1 files

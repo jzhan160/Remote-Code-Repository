@@ -1,0 +1,33 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Fri Mar  2 22:57:36 2018
+     Path: "E:\687\Project2\Repository\VersionComponent"
+     Args: Version.h, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1       9
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                 Version.h       class                            Version      39      10       6
+                 Version.h    function                      removeVersion      73       9       1
+                 Version.h    function                         addVersion      86       4       1
+                 Version.h    function                         getVersion      93       6       1
+                 Version.h    function                        getFileName     102       6       1
+                 Version.h    function                         removeHead     111       3       1
+                 Version.h    function                   getLatestVersion      53      16       2
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     6 dirs
+   processed     1 files
